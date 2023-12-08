@@ -4,7 +4,7 @@ URP12でセルフオーバーレイのポストプロセスを実装しました
 
 アセンブリも分けてあるので安心してご利用ください。
 
-![img1](https://booth.pximg.net/7ae40447-3f13-4c32-a1ae-d4f9cd2c3b8f/i/5323297/28e38d69-77b4-4a95-a333-f5912f21dc9f.png)
+![img1](https://booth.pximg.net/7ae40447-3f13-4c32-a1ae-d4f9cd2c3b8f/i/5323297/526e742a-4b3b-43e5-b30f-39ba000c30d3.png)
 
 ## 利用規約
 
