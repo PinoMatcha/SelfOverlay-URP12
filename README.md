@@ -26,7 +26,7 @@ URP12でセルフオーバーレイのポストプロセスを実装しました
 
 ## 使い方
 
-.unitypackageをUnityへインポートしていたき、「Self Overlay Render Feature」を Renderer にセットすればあとは通常のポストプロセスの適応と変わりありません。
+.unitypackageをUnityへインポートしていただき、「Self Overlay Render Feature」を Renderer にセットすればあとは通常のポストプロセスの適応と変わりありません。
 
 「Add Override > Post-processing > PM Presents > Self Overlay」からボリュームへ追加することが可能です。
 
